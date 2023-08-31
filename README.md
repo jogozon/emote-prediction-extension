@@ -14,9 +14,10 @@ Project is created with:
 * Flask version: 2.2.3
 * Python version: 3.11.2
 * Werkzeug version: 2.2.3
-* Tailwind
-* HTML
-* Java Script
+* Tailwind version: 3.3.3 
+* HTML version: 1.0.0
+* JavaScript version: 1.0.0
+* Axios version: 1.5.0
 * PyTorch
 
 ##Setup
